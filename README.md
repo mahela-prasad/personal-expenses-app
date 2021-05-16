@@ -2,10 +2,12 @@
 
 This is my first Flutter mobile app. For this I am following packtpub video tutorial.
 
-Name 			: Learn Flutter and Dart to Build iOS and Android Apps 2020
-By 				: Academind GmbH
-Date 			: November 2018
-Discription 	: A complete guide to the Flutter SDK and Flutter framework to build native iOS and Android apps
+|  #   |     |
+| --- | --- |
+|Name | Learn Flutter and Dart to Build iOS and Android Apps 2020|
+|By | Academind GmbH|
+|Date | November 2018|
+|Description | A complete guide to the Flutter SDK and Flutter framework to build native iOS and Android apps|
 
 Key Features
 
