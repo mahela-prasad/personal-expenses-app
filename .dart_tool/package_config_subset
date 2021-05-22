@@ -1,7 +1,7 @@
 sample
 2.7
-file:///home/mahela/Documents/myProjects/Flutter/sample/
-file:///home/mahela/Documents/myProjects/Flutter/sample/lib/
+file:///home/mahela/Documents/myProjects/Flutter/personal-expenses-app/
+file:///home/mahela/Documents/myProjects/Flutter/personal-expenses-app/lib/
 async
 2.12
 file:///home/mahela/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.5.0/
@@ -34,6 +34,10 @@ fake_async
 2.12
 file:///home/mahela/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/
 file:///home/mahela/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib/
+intl
+2.12
+file:///home/mahela/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/
+file:///home/mahela/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib/
 matcher
 2.12
 file:///home/mahela/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10/
