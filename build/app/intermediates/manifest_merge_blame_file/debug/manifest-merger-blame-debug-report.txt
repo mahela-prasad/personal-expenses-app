@@ -22,8 +22,8 @@
 18        android:debuggable="true"
 19        android:icon="@mipmap/ic_launcher"
 19-->/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/android/app/src/main/AndroidManifest.xml:5:9-43
-20        android:label="sample" >
-20-->/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/android/app/src/main/AndroidManifest.xml:4:9-31
+20        android:label="Expenses" >
+20-->/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/android/app/src/main/AndroidManifest.xml:4:9-33
 21        <activity
 21-->/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/android/app/src/main/AndroidManifest.xml:6:9-34:20
 22            android:name="com.example.sample.MainActivity"

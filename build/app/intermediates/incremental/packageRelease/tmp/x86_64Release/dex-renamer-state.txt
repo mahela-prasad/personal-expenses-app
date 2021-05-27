@@ -1,4 +1,4 @@
-#Sun May 16 12:06:13 IST 2021
-base.0=/home/mahela/Documents/myProjects/Flutter/sample/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Wed May 26 23:24:50 IST 2021
+base.0=/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
