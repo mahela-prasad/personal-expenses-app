@@ -16,8 +16,8 @@
 12-->[androidx.core:core:1.1.0] /home/mahela/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/AndroidManifest.xml:24:18-86
 13        android:icon="@mipmap/ic_launcher"
 13-->/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/android/app/src/main/AndroidManifest.xml:5:9-43
-14        android:label="sample" >
-14-->/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/android/app/src/main/AndroidManifest.xml:4:9-31
+14        android:label="Expenses" >
+14-->/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/android/app/src/main/AndroidManifest.xml:4:9-33
 15        <activity
 15-->/home/mahela/Documents/myProjects/Flutter/personal-expenses-app/android/app/src/main/AndroidManifest.xml:6:9-34:20
 16            android:name="com.example.sample.MainActivity"
